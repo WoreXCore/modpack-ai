@@ -1,5 +1,7 @@
 # Modpack AI with LLaMA 3 Fine-tuning
 
+Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.
+
 ## Features
 
 - 🕷️ **Async Modrinth Scraper**: Efficiently scrapes mod data from Modrinth API
@@ -7,7 +9,7 @@
 - 🎯 **Smart Modpack Generation**: Generates themed modpacks with compatibility checking
 - 📊 **Scalable Architecture**: Clean, maintainable code structure following best practices
 - 🔧 **CLI Interface**: Easy-to-use command-line interface with interactive mode
-
+ 
 ## Installation
 
 ```bash
